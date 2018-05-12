@@ -8,7 +8,7 @@ creator:
   - agent_name: Michelet, Jules
     alias: Michelet, J.
     birthdate: 1798
-    deathdate: &id001 1874
+    deathdate: 1874
     gutenberg_agent_id: '8214'
     url: http://www.gutenberg.org/2009/agents/8214
     wikipedia:
@@ -17,10 +17,12 @@ creator:
   - agent_name: Quinet, Edgar
     alias: Kine, Ėdgar
     birthdate: 1803
-    deathdate: *id001
+    deathdate: 1874
     gutenberg_agent_id: '40411'
     url: http://www.gutenberg.org/2009/agents/40411
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/40095#Des-j-suites
 gutenberg_bookshelf: FR Philosophie, Religion et Morale
 gutenberg_issued: '2012-06-27'
 gutenberg_type: Text
